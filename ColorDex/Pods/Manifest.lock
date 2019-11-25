@@ -1,0 +1,20 @@
+PODS:
+  - Kanna (5.0.0)
+  - SwiftSoup (2.2.2)
+
+DEPENDENCIES:
+  - Kanna (~> 5.0.0)
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Kanna
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Kanna: a32875df62975f8f4b871e933b4ea1a5c3b8be0f
+  SwiftSoup: 77147d707df716eb6dbd06c5c24d35ad5ba62ee1
+
+PODFILE CHECKSUM: 204b8e75b12ddb574864e30add30096865ee5f7a
+
+COCOAPODS: 1.8.4
