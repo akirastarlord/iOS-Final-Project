@@ -1,0 +1,8 @@
+1. The traditional colors project idea. Now specifically implementing the user customization part.
+
+2. Navigation, TabBarController, SwiftSoup, KingFisher
+
+3. Since I submitted milestone 1 late, I haven't made huge progress.
+But I've started building the user profile part (switching functionalities through UITabBarController), now on the way of implementing various user interactions of the color databases.
+
+4. Github: https://github.com/akirastarlord/iOS-Final-Project
